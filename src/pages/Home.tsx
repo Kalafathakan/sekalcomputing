@@ -9,7 +9,7 @@ const Home = (props: Props) => {
 		<div id="wrapper">
 			<header id="header">
 				<div className="logo">
-					<span>SK</span>
+					<img src='assets/images/logo.png' className="logo2"></img>
 				</div>
 				<div className="content">
 					<div className="inner">

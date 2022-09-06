@@ -13,9 +13,9 @@ const Services = () => {
             <div id="wrapper">
 
                 <header id="header">
-                    <div className="logo">
-                        <span>SK</span>
-                    </div>
+                <div className="logo">
+					<img src='assets/images/logo.png' className="logo2"></img>
+				</div>
                     <div className="content">
                         <div className="inner">
                             <h1>Sekal Computing</h1>
